@@ -1,0 +1,3 @@
+[server]
+host = https://example.com/
+api1 = v1/maps?x=123&y=456
